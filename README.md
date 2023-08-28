@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/yxmz5Ml' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jinjin1919/myiosApp/blob/master/myIOS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
